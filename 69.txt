@@ -1,0 +1,7 @@
++Luc Tai Entity Frame 4.2.0 Chu Y Duong dan den file la gi và chuyển chữ cạnh bánh răng từ OFNuGet ThànhPackage source
+14:20 (Tao File Models bang cach add new items -> tim ADO.NET ENTITY data model)
++Tao controller = cách add controller chon cai thu 3 (MVC 5 Controller with views, using Entity Framerork)
+22:00(Sua Code RouteConfig.cs(o trong phan App_Start) de luc chay vo thang bang nhan vien)
+22:25(Sua Phan Code _Layout)
+Thuong lam den cau 5 (xong _Layout la co the chay bai)
+24:00(Xem Tiep)
